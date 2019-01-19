@@ -1,0 +1,42 @@
+﻿  Etsaiak.c
+c:\users\garana\desktop\dragonapocalypse\jokoa\etsaiak.c(16): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\garana\desktop\dragonapocalypse\jokoa\etsaiak.c(21): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\garana\desktop\dragonapocalypse\jokoa\etsaiak.c(29): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\garana\desktop\dragonapocalypse\jokoa\etsaiak.c(34): warning C4305: '=': truncamiento de 'double' a 'float'
+  main.c
+c:\users\garana\desktop\dragonapocalypse\jokoa\main.c(39): warning C4013: 'botoiaKoordenatuak' sin definir; se supone que extern devuelve como resultado int
+c:\users\garana\desktop\dragonapocalypse\jokoa\main.c(195): warning C4087: 'irudiakMarraztu': se ha declarado con la lista de parámetros 'void'
+c:\users\garana\desktop\dragonapocalypse\jokoa\main.c(25): warning C4101: 'x': variable local sin referencia
+  mapa_botoiak.c
+  pantailak.c
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(51): warning C4013: 'mapakoKoordenatuak' sin definir; se supone que extern devuelve como resultado int
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(72): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(159): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(184): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(199): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(224): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(276): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(378): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(379): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(385): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(402): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(450): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(480): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(624): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(625): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(635): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(681): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(701): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(726): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(876): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(877): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(887): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(908): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(926): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(983): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(1018): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\garana\desktop\dragonapocalypse\jokoa\pantailak.c(1044): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  Jokoa.vcxproj -> C:\Users\garana\Desktop\DragonApocalypse\Debug\Jokoa.exe

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos\simpleSdlWraapper">
+      <UniqueIdentifier>{45c60dcd-30ac-4874-b9bb-12a159fd5d53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado\simpleSdlWrapper">
+      <UniqueIdentifier>{34425574-0e62-4c0d-9af4-83b01b7decfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de recursos\Beste elementuak">
+      <UniqueIdentifier>{f661c978-b1e5-439c-a09e-2a327b8af045}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\simpleSdlWrapper\ebentoak.c">
+      <Filter>Archivos de recursos\simpleSdlWraapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\graphics.c">
+      <Filter>Archivos de recursos\simpleSdlWraapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\imagen.c">
+      <Filter>Archivos de recursos\simpleSdlWraapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\soinua.c">
+      <Filter>Archivos de recursos\simpleSdlWraapper</Filter>
+    </ClCompile>
+    <ClCompile Include="..\simpleSdlWrapper\text.c">
+      <Filter>Archivos de recursos\simpleSdlWraapper</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="tiroak.c">
+      <Filter>Archivos de recursos\Beste elementuak</Filter>
+    </ClCompile>
+    <ClCompile Include="mapa_botoiak.c">
+      <Filter>Archivos de recursos\Beste elementuak</Filter>
+    </ClCompile>
+    <ClCompile Include="Etsaiak.c">
+      <Filter>Archivos de recursos\Beste elementuak</Filter>
+    </ClCompile>
+    <ClCompile Include="pantailak.c">
+      <Filter>Archivos de recursos\Beste elementuak</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\simpleSdlWrapper\ebentoak.h">
+      <Filter>Archivos de encabezado\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\graphics.h">
+      <Filter>Archivos de encabezado\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\imagen.h">
+      <Filter>Archivos de encabezado\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\soinua.h">
+      <Filter>Archivos de encabezado\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="..\simpleSdlWrapper\text.h">
+      <Filter>Archivos de encabezado\simpleSdlWrapper</Filter>
+    </ClInclude>
+    <ClInclude Include="head.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="funtzioak.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
